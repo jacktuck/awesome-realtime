@@ -10,12 +10,19 @@
 
 
 ## Storage
+### Hosted
+- [Firebase](https://firebase.google.com) - Scale worldwide to millions of users, paying only for what you use.
 
+### Self-hosted
 - [RethinkDB](https://www.rethinkdb.com) - RethinkDB pushes JSON to your apps in realtime.
-- [Firebase](https://firebase.google.com/) - Scale worldwide to millions of users, paying only for what you use.
+
+## Websockets
+### Hosted
+- [Ably](https://www.ably.io) - Ably is a realtime data delivery platform providing developers everything they need.
+- [Pubnub](https://www.pubnub.com) - APIs for developers building secure realtime Mobile, Web, and IoT Apps.
+- [Pusher](https://pusher.com) - Pusher is a hosted API for realtime bi-directional functionality via WebSockets.
 
 
-## Another Section
 
 ### Subsection
 
